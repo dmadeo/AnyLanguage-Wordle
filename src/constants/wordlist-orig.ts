@@ -1,14 +1,11 @@
 export const WORDS = [
   'prime',
   'trust',
-  'value',
-  'adopt',
-  'speed',
-  'goals',
   'churn',
+  'adopt',
+  'value',
   'build',
   'team',
   'amaze',
   'thank',
-  'plans',
 ]
